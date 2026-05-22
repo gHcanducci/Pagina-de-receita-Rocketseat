@@ -74,10 +74,13 @@ Projeto-Página-de-Receita/
 3. Clique com o botão direito no `index.html`
 4. Selecione **"Open with Live Server"**
 
+<<<<<<< HEAD
 ### Método 3: Visualizar online
 
 [🔗 Acesse a demonstração ao vivo](#) *(adicione o link do GitHub Pages aqui após o deploy)*
 
+=======
+>>>>>>> c4e915f07cf72e8539fe8a3fd84bf150f35cc1f3
 ---
 
 ## 📸 Preview
